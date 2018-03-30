@@ -1,0 +1,183 @@
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.Form1.resources
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.Form2.resources
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.login.resources
+C:\DATA\C# Programing-Projects\MetroUI\MetroUI\bin\Debug\MetroFramework.dll
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\bin\Debug\Interop.FOXITPHANTOMLib.dll
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\bin\Debug\AxInterop.FOXITPHANTOMLib.dll
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\Interop.FOXITPHANTOMLib.dll
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\AxInterop.FOXITPHANTOMLib.dll
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.ResolveComReference.cache
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.anasayfa.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.login.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.projeForm.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.demirbaslarForm.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.etkinlikForm.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.Kulüp_Yönetimi.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.sifreIslemleriForm.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.yeniKayitForm.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.kimlikForm.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.harcamalarForm.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.hesapDurumuForm.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.paraEkleForm.resources
+C:\DATA\School Works\C# Programing-Projects\MetroUI\MetroUI\obj\Debug\MetroUI.hakkindaForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.ResolveComReference.cache
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.anasayfa.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.demirbaslarForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.etkinlikForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hakkindaForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.harcamalarForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hesapDurumuForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Kulüp_Yönetimi.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.kimlikForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.paraEkleForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.projeForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.sifreIslemleriForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.yeniKayitForm.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.login.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+C:\Users\Emre\Downloads\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\Interop.FOXITPHANTOMLib.dll
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\AxInterop.FOXITPHANTOMLib.dll
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.ResolveComReference.cache
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\Interop.FOXITPHANTOMLib.dll
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\AxInterop.FOXITPHANTOMLib.dll
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.anasayfa.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.demirbaslarForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.etkinlikForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hakkindaForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.harcamalarForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hesapDurumuForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Kulüp_Yönetimi.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.kimlikForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.paraEkleForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.projeForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.sifreIslemleriForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.yeniKayitForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.login.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.aktivasyonForm.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.adminBilgileri.resources
+C:\Users\ender\Desktop\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\Interop.FOXITPHANTOMLib.dll
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\AxInterop.FOXITPHANTOMLib.dll
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\Interop.FOXITPHANTOMLib.dll
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\AxInterop.FOXITPHANTOMLib.dll
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.ResolveComReference.cache
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.adminBilgileri.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.aktivasyonForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.anasayfa.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.demirbaslarForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.etkinlikForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hakkindaForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.harcamalarForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hesapDurumuForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Kulüp_Yönetimi.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.kimlikForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.paraEkleForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.projeForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.sifreIslemleriForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.yeniKayitForm.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.login.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+C:\DATA\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.ResolveComReference.cache
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.adminBilgileri.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.aktivasyonForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.anasayfa.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.demirbaslarForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.etkinlikForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hakkindaForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.harcamalarForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hesapDurumuForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Kulüp_Yönetimi.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.kimlikForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.paraEkleForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.projeForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.sifreIslemleriForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.yeniKayitForm.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.login.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+C:\Users\Emre\Downloads\proje\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\Interop.FOXITPHANTOMLib.dll
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\AxInterop.FOXITPHANTOMLib.dll
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.ResolveComReference.cache
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\Interop.FOXITPHANTOMLib.dll
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\bin\Debug\AxInterop.FOXITPHANTOMLib.dll
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.adminBilgileri.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.aktivasyonForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.anasayfa.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.demirbaslarForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.etkinlikForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hakkindaForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.harcamalarForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Kulüp_Yönetimi.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.kimlikForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.paraEkleForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.projeForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.sifreIslemleriForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.yeniKayitForm.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.login.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+C:\DATA\proje(son)\proje\proje-\proje\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.ResolveComReference.cache
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.exe
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.pdb
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.exe
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.pdb
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csprojResolveAssemblyReference.cache
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.adminBilgileri.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.aktivasyonForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.anasayfa.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.demirbaslarForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.etkinlikForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.hakkindaForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.harcamalarForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Kulüp_Yönetimi.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.kimlikForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.paraEkleForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.projeForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.sifreIslemleriForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.yeniKayitForm.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.login.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.Properties.Resources.resources
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\obj\Debug\MetroUI.csproj.GenerateResource.Cache
+D:\proje(son)\proje\MetroUI\MetroUI\MetroUI\bin\Debug\MetroUI.exe.config

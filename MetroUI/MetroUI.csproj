@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7F58A28D-D803-45A0-8F86-6972F6227AB0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MetroUI</RootNamespace>
+    <AssemblyName>MetroUI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\Users\ender\Desktop\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\MySQL\MySQL Connector Net 8.0.10\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminBilgileri.Designer.cs">
+      <DependentUpon>adminBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aktivasyonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aktivasyonForm.Designer.cs">
+      <DependentUpon>aktivasyonForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anasayfa.Designer.cs">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="demirbaslarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="demirbaslarForm.Designer.cs">
+      <DependentUpon>demirbaslarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="etkinlikForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="etkinlikForm.Designer.cs">
+      <DependentUpon>etkinlikForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hakkindaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hakkindaForm.Designer.cs">
+      <DependentUpon>hakkindaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="harcamalarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="harcamalarForm.Designer.cs">
+      <DependentUpon>harcamalarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kadroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kadroForm.Designer.cs">
+      <DependentUpon>kadroForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kimlikForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kimlikForm.Designer.cs">
+      <DependentUpon>kimlikForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paraEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paraEkleForm.Designer.cs">
+      <DependentUpon>paraEkleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="projeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="projeForm.Designer.cs">
+      <DependentUpon>projeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="sifreIslemleriForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sifreIslemleriForm.Designer.cs">
+      <DependentUpon>sifreIslemleriForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yeniKayitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yeniKayitForm.Designer.cs">
+      <DependentUpon>yeniKayitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="adminBilgileri.resx">
+      <DependentUpon>adminBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aktivasyonForm.resx">
+      <DependentUpon>aktivasyonForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anasayfa.resx">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="demirbaslarForm.resx">
+      <DependentUpon>demirbaslarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="etkinlikForm.resx">
+      <DependentUpon>etkinlikForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hakkindaForm.resx">
+      <DependentUpon>hakkindaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="harcamalarForm.resx">
+      <DependentUpon>harcamalarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kadroForm.resx">
+      <DependentUpon>kadroForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kimlikForm.resx">
+      <DependentUpon>kimlikForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paraEkleForm.resx">
+      <DependentUpon>paraEkleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="projeForm.resx">
+      <DependentUpon>projeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sifreIslemleriForm.resx">
+      <DependentUpon>sifreIslemleriForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yeniKayitForm.resx">
+      <DependentUpon>yeniKayitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\file-folder-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\id-card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\list-square-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\magnifying-glass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\office-material.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\screen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxFOXITPHANTOMLib">
+      <Guid>{3A8BD65E-9922-4162-A649-83F2D5326BBE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="FOXITPHANTOMLib">
+      <Guid>{3A8BD65E-9922-4162-A649-83F2D5326BBE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
